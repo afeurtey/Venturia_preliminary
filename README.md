@@ -13,7 +13,7 @@ the pangenome and identified one main secondary contributor, an isolate
 from *Sorbus aucuparia*. In addition, some length was added by the 
 isolates from *Pyracantha* and *Malus orientalis*. 
 
-![](panstats_graphs2-1.png)
+![](panstats_graph2-1.png)
 
 I aligned all the resequencing datasets on the pangenome and identified 
 presence-absence of genes for each isolates. Using a dimension reduction 
